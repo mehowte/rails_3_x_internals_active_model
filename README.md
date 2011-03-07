@@ -35,5 +35,4 @@ History
 Presented at KRUG (Kraków Ruby User Group) meeting, Poland 2011-03-01
 
 [0]: http://rails-3-internals-active-model.heroku.com/
-[1]: https://github.com/mehowte/rails_3_x_internals_active_model
-
+[1]: https://github.com/mehowte/file_record
