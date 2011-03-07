@@ -10,7 +10,7 @@ You can see presentation on [heroku][0] or install and run locally.
 Installation
 ------------
 
-    git clone git://github.com/mehowte/active_model_krug_1_3_2011.git
+    git clone git://github.com/mehowte/rails_3_x_internals_active_model.git
     cd active_model_krug_1_3_2011
     bundle install
 
