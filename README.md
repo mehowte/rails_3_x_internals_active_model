@@ -11,7 +11,7 @@ Installation
 ------------
 
     git clone git://github.com/mehowte/rails_3_x_internals_active_model.git
-    cd active_model_krug_1_3_2011
+    cd rails_3_x_internals_active_model
     bundle install
 
 Running presentation
