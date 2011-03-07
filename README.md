@@ -35,5 +35,5 @@ History
 Presented at KRUG (Kraków Ruby User Group) meeting, Poland 2011-03-01
 
 [0]: http://active-model-krug-1-3-2011.heroku.com/
-[1]: git://github.com/mehowte/active_model_krug_1_3_2011.git
+[1]: https://github.com/mehowte/active_model_krug_1_3_2011
 
